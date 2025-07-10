@@ -1,13 +1,13 @@
-package com.victornextgroup.encurtador;
+package com.victornext.encurtador;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class VictornextApplication {
+public class EncurtadorApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(VictornextApplication.class, args);
+		SpringApplication.run(EncurtadorApplication.class, args);
 	}
 
 }

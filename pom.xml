@@ -8,11 +8,11 @@
 		<version>3.5.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.victornextgroup</groupId>
-	<artifactId>victornext</artifactId>
+	<groupId>com.victornext</groupId>
+	<artifactId>encurtador</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>victornext</name>
-	<description>encurtador de links</description>
+	<name>encurtador</name>
+	<description>encurtador</description>
 	<url/>
 	<licenses>
 		<license/>

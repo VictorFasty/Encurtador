@@ -1,10 +1,10 @@
-package com.victornextgroup.encurtador;
+package com.victornext.encurtador;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class VictornextApplicationTests {
+class EncurtadorApplicationTests {
 
 	@Test
 	void contextLoads() {
