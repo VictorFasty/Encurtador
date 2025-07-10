@@ -15,7 +15,7 @@ import java.time.LocalDateTime;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class encurtador {
+public class Encurtador {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
