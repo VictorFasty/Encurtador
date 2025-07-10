@@ -33,6 +33,7 @@ public class EncurtadorService {
 
     }
 
+    //Gera um codigo unico com 6 caracteres e logo após verifica se é existente no banco de dados para não criar varios
     private String gerarCodigoUnico() {
         String codigo;
 
