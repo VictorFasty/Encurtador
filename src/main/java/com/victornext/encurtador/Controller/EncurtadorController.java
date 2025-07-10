@@ -4,14 +4,12 @@ import com.victornext.encurtador.DTOs.UrlRequest;
 import com.victornext.encurtador.model.Encurtador;
 import com.victornext.encurtador.service.EncurtadorService;
 import lombok.AllArgsConstructor;
-import lombok.Data;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.Optional;
 
 @RestController
-@Data
 @AllArgsConstructor
 public class EncurtadorController {
 
